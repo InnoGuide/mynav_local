@@ -9,3 +9,5 @@ Or! (you have nodejs installed, too)
 Download repository in a new directory and type:
 
 `npm install`
+
+in a command-shell in your working-directory
