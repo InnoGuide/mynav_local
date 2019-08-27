@@ -1,0 +1,16 @@
+{
+    "name": "local",
+    "version": "1.0.0",
+    "description": "Die Bibliothek _mynav_ stellt die Möglichkeit bereit, mit einem __einzigem Objekt__ eine __komplette vertikale Navbar (Menue)__ zu erstellen. Aus den einzelnen Einträgen, des Menues, wird nach dem anklicken direkt eine dazugehörige Funktion aufgerufen.",
+    "main": "script.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mynav": "^1.0.9"
+    }
+}
