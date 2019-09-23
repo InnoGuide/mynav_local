@@ -11,6 +11,6 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "mynav": "^1.0.11"
+        "mynav": "^1.0.18"
     }
 }
